@@ -1,2 +1,5 @@
-# javascript-drag-drop-sortable
-A simple drag, drop and sortable example using vanilla javascript
+## Drag, Drop & Sortable
+A simple drag, drop and sortable example using vanilla JavaScript.
+
+## Screenshot
+![1](https://github.com/masudncse/javascript-drag-drop-sortable/blob/master/screenshot/1.png)
